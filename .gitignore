@@ -1,0 +1,11 @@
+
+    
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+img/
+.idea/
+coverage/
+.coveralls.yml
+yarn-error.log
