@@ -2,15 +2,33 @@
 
 > koa 框架服务端搭建
 
+
 ## 安装要求
 
-列出运行该项目必须要具备的条件以及必须要安装的软件，最好给出具体的安装步骤。
+> 列出运行该项目必须要具备的条件以及必须要安装的软件，最好给出具体的安装步骤。
 
-1. 必须安装我
+- 安装nodejs
 
-2. 我也必须安装
+- 全局安装Koa脚手架
 
-3. 安装我也是必须的
+  ```
+  npm install koa-generator -g
+  ```
+
+- 项目模板生成
+
+  ```
+  koa2 my-project-name
+  ```
+
+- 安装依赖和运行
+
+  ```
+  cd my-project-name # 切换目录
+  npm install # 安装依赖 或者 yarn install 或者 cnpm install
+  npm start # 项目运行
+  ```
+
 
 ## 安装步骤
 
